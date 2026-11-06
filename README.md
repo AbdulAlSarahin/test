@@ -1,2 +1,2 @@
 # test
-testing
+Studing Git in depth
